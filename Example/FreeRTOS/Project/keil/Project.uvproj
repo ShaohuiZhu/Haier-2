@@ -930,6 +930,41 @@
               <FileType>5</FileType>
               <FilePath>..\readme.txt</FilePath>
             </File>
+            <File>
+              <FileName>readme_about_AC.txt</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\readme_about_AC.txt</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
+          <GroupName>ac</GroupName>
+          <Files>
+            <File>
+              <FileName>AC_Component.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\AC_Component.c</FilePath>
+            </File>
+            <File>
+              <FileName>AC_Prime.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\AC_Prime.c</FilePath>
+            </File>
+            <File>
+              <FileName>AC_RX.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\AC_RX.c</FilePath>
+            </File>
+            <File>
+              <FileName>AC_Sub.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\AC_Sub.c</FilePath>
+            </File>
+            <File>
+              <FileName>AC_TX.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\AC_TX.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
